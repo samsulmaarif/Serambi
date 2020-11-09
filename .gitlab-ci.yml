@@ -1,0 +1,13 @@
+image: python:2.7-alpine
+
+pages:
+  script:
+    - rm -rf serambi/config.ini
+    - cat serambi/config > serambi/config.ini
+    - cat serambi/feeds >> serambi/config.ini
+    - python planet.py serambi/config.ini
+    - mv www public
+  artifacts:
+    paths:
+      - public/
+
