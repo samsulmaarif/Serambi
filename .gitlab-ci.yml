@@ -10,4 +10,5 @@ pages:
   artifacts:
     paths:
       - public/
-
+  only:
+    - schedules

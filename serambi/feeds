@@ -18,9 +18,6 @@ name = Somat
 [https://fajran.web.id/feed/]
 name = Iang
 
-[http://ainul.smartikon.com/tag/blankon/feed/]
-name = Ainul Hakim
-
 [https://tripledin.wordpress.com/category/linux/feed/]
 name = Mahyuddin Susanto
 
@@ -41,9 +38,6 @@ name = olanuxer
 
 [https://catatanpinguin.wordpress.com/feed/]
 name = sakrasemangat
-
-[http://skyisgrey.org/feed/]
-name = Andy Apdhani
 
 [https://dodolboks.wordpress.com/feed/]
 name = Alikusnadi
@@ -93,9 +87,6 @@ name = xunilresu
 [https://adeazee.blogspot.com/feeds/posts/default]
 name = Ade Muhammad
 
-[http://jambi.di.blankon.in/feed/]
-name = BlankOn Jambi
-
 [https://imgos-belajarlinux.blogspot.com/feeds/posts/default]
 name = Sokhibi
 
@@ -110,9 +101,6 @@ name = Ari Effendi
 
 [https://syaimif.wordpress.com/category/blankon/feed/]
 name = Syai Mif
-
-[http://feeds.feedburner.com/PaguyubanPenggunaBlankonMalang]
-name = BlankOn Malang
 
 [http://blog.pdft.net/feed.xml]
 name = Herpiko Dwi Aguno
@@ -183,3 +171,17 @@ name = Ananda Dwi Rahmawati
 
 #[http://i15n.blankonlinux.or.id/projects/feed/]
 #name = i15n
+
+## tautan-tautan yang sudah tidak aktif
+
+#[http://ainul.smartikon.com/tag/blankon/feed/]
+#name = Ainul Hakim
+
+#[http://skyisgrey.org/feed/]
+#name = Andy Apdhani
+
+#[http://jambi.di.blankon.in/feed/]
+#name = BlankOn Jambi
+
+#[http://feeds.feedburner.com/PaguyubanPenggunaBlankonMalang]
+#name = BlankOn Malang
